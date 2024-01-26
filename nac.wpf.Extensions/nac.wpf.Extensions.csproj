@@ -3,6 +3,10 @@
     <PropertyGroup>
         <TargetFramework>net6.0-windows</TargetFramework>
         <UseWpf>true</UseWpf>
+        <Version>1.0.1</Version>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>WPF Shortcuts - used in old applications</Description>
     </PropertyGroup>
 
 </Project>
